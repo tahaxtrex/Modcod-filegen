@@ -19,9 +19,13 @@ It uses a Word template to format each article and saves the results in an outpu
 ## 🖥️ How to Use
 
 1. **Make sure the folder contains:**
+
    main.exe
+
    input/
+
    ├── articles.xlsx
+
    └── document_template.docx
 
 2. **Double-click `main.exe` to run the tool.**
