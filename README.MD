@@ -65,8 +65,8 @@ If you're unsure:
 
 If you run into problems or need help:
 
-- Contact: **[Your Name or Email Here]**
-- Or report issues via [GitHub / your preferred platform]
+- Contact: **[hbirritaha@gmail.com]**
+- Or report issues via [linkedin](https://www.linkedin.com/in/tahahbirri/)
 
 ---
 
