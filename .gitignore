@@ -1,0 +1,14 @@
+# Ignore output and build files
+__pycache__/
+build/
+dist/
+*.spec
+*.exe
+
+# Optional: ignore input files if they contain sensitive data
+input/articles.xlsx
+input/document_template.docx
+
+# OS-specific
+.DS_Store
+Thumbs.db
