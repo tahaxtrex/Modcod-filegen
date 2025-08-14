@@ -75,8 +75,11 @@ If you run into problems or need help:
 All generated documents will look like:
 
 output/
+
 ├── 001 - Widget A.docx
+
 ├── 002 - Widget B.docx
+
 ├── ...
 
 ---
